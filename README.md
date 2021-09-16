@@ -9,7 +9,7 @@
 <h3 align="left"> 🐸 Mxttxs.</h3>
 <p align='center'> <samp> Success will not come without action. 🐸 Tomorrow must be better.</samp></p>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatcharapolxFa&show_icons=true&locale=en&theme=tokyonight" alt="WatcharapolxFa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Watanai1245&show_icons=true&locale=en&theme=tokyonight" alt="Watanai1245" /></p>
 <hr>
 <h3 align="right"> ❤ Contact IG : new_watanai</h3>
 <h4 align="right"> ❤ I have a heart contact....</h4>
