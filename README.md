@@ -11,5 +11,5 @@
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Watanai1245&show_icons=true&locale=en&theme=tokyonight" alt="Watanai1245" /></p>
 <hr>
-<h3 align="right"> ❤ Contact IG : new_watanai</h3>
+<h3 align="right"> ❤ Contact IG : https://www.instagram.com/new_watanai/</h3>
 <h4 align="right"> ❤ I have a heart contact....</h4>
