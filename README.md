@@ -1,4 +1,4 @@
-<h1 align='left'><samp><strong> <img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png 2x" alt="Clapping Hands on Skype Emoticons 1.2" width="30" height="30"> I'm Newyear  </strong></samp></h1>
+<h1 align='left'><samp><strong> <img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png 2x" alt="Clapping Hands on Skype Emoticons 1.2" width="30" height="30"> I'm Newyear  <img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://cryptocars.me/img/road.gif" width="32" height="30"> </strong></samp></h1>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watanai1245&layout=compact&theme=github_dark&card_width=446)](https://github.com/Watanai1245/github-readme-stats)
