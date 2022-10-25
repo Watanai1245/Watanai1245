@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you all.   
+<h1 align="center">Nice to meet you all.
 </div> I am Newyear.<img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png 2x" alt="Clapping Hands on Skype Emoticons 1.2" width="30" height="30"></h1>
 <p align='center'> <samp>Let me introduce myself. My name is Watanai.You can call me Newyear. I am currently pursuing my bachelor of Computer Engineering from King Mongkut's Institute of Technology Ladkrabang. My hobbies are reading and traveling. I am also good at Badminton sports. I never stop improving myself. Success will not come without action. Tomorrow must be better. At last, thanks to all of you for giving me the opportunity to introduce myself.</samp></p>
 <br>
@@ -25,11 +25,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/watanai maythamaluang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watanai maythamaluang" height="30" width="40" /></a>Linkedin : <a href="https://www.linkedin.com/in/watanai-maythamaluang-b82164149/">Watanai Maythamaluang</a><p>
+<a href="https://linkedin.com/in/watanai maythamaluang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watanai maythamaluang" height="30" width="40" /></a>&#09;Linkedin : <a href="https://www.linkedin.com/in/watanai-maythamaluang-b82164149/">Watanai Maythamaluang</a><p>
 
-<a href="https://instagram.com/new_watanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new_watanai" height="30" width="40" /></a>Instagram : <a href="https://www.instagram.com/new_watanai/">new_watanai</a><p>
+<a href="https://instagram.com/new_watanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="new_watanai" height="30" width="40" /></a>&#09;Instagram : <a href="https://www.instagram.com/new_watanai/">new_watanai</a><p>
 
-<a href="https://fb.com/watanai maythamaluang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watanai maythamaluang" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=100006608101711">Watanai Maythamaluang</a><p>
+<a href="https://fb.com/watanai maythamaluang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watanai maythamaluang" height="30" width="40" /></a>&#09;Facebook : <a href="https://www.facebook.com/profile.php?id=100006608101711">Watanai Maythamaluang</a><p>
 
-<a href="https://twitter.com/newyear63010846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newyear63010846" height="30" width="40" /></a>Twitter : <a href="https://twitter.com/Newyear63010846">Newyear</a><p>
+<a href="https://twitter.com/newyear63010846" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newyear63010846" height="30" width="40" /></a>&#09;Twitter : <a href="https://twitter.com/Newyear63010846">Newyear</a><p>
 
