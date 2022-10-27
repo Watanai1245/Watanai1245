@@ -1,6 +1,6 @@
 <h1 align="center">Nice to meet you all.
 </div> I am Newyear.<img src="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png" srcset="https://emojipedia-us.s3.amazonaws.com:443/source/skype/289/clapping-hands_1f44f.png 2x" alt="Clapping Hands on Skype Emoticons 1.2" width="30" height="30"></h1>
-<p align='center'> <samp>Let me introduce myself. My name is Watanai.You can call me Newyear. I am currently pursuing my bachelor of Computer Engineering from King Mongkut's Institute of Technology Ladkrabang. My hobbies are reading and traveling. I am also good at Badminton sports. I never stop improving myself. Success will not come without action. Tomorrow must be better. At last, thanks to all of you for giving me the opportunity to introduce myself.</samp></p>
+<p align='center'> <samp>Let me introduce myself. My name is Watanai. You can call me Newyear. I am currently pursuing my bachelor of Computer Engineering from King Mongkut's Institute of Technology Ladkrabang. My hobbies are reading and traveling. I am also good at Badminton sports. I never stop improving myself. Success will not come without action. Tomorrow must be better. At last, thanks to all of you for giving me the opportunity to introduce myself.</samp></p>
 <br>
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
