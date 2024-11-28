@@ -48,7 +48,7 @@
 - Twitter : <a href="https://twitter.com/Newyear63010846">Newyear</a>
 
 <div align="center" style="background-color:white">
-  <img  src="https://raw.githubusercontent.com/Abdulhakim-Maha/Abdulhakim-Maha/output/snake.svg" alt="Snake animation" />
+  <img  src="https://raw.githubusercontent.com/Abdulhakim-Maha/Watanai1245/output/snake.svg" alt="Snake animation" />
 </div>
 
 
