@@ -47,10 +47,6 @@
 - Facebook : <a href="https://www.facebook.com/profile.php?id=100006608101711">Watanai Maythamaluang</a>
 - Twitter : <a href="https://twitter.com/Newyear63010846">Newyear</a>
 
-<div align="center" style="background-color:white">
-  <img  src="https://raw.githubusercontent.com/Watanai1245/output/snake.svg" alt="Snake animation" />
-</div>
-
 
 
 
